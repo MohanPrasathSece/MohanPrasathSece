@@ -1,130 +1,174 @@
-<!-- README.md
-     Pixel Retro Profile for Mohan Prasath S
-     Style: Pixel Retro (8-bit), heatmap snake GIF, Hacktoberfest badges & Zyra Digitals promo
--->
+<!-- ✦ Retro Cyberpunk Pixel GitHub README for MOHAN PRASATH S ✦ -->
 
+<!-- Neon Pixel Banner -->
 <p align="center">
-  <img alt="pixel-banner" src="https://raw.githubusercontent.com/MohanPrasathSece/assets/main/pixel-banner.gif" width="760" />
+  <img src="https://i.imgur.com/1XW1ZTT.gif" width="650">
 </p>
 
-<h1 align="center">👾 MOHAN PRASATH S — PIXEL LOBBY</h1>
-<p align="center">Full Stack Developer • MERN Knight • Founder @ Zyra Digitals</p>
+<h1 align="center">
+  <img src="https://i.imgur.com/5g7kYcZ.gif" width="40">
+  <span style="color:#8A2BE2; font-family:monospace;">MOHAN PRASATH S</span>
+  <img src="https://i.imgur.com/5g7kYcZ.gif" width="40">
+</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025_%E2%9A%A1️-orange?style=for-the-badge" alt="hacktoberfest-badge" />
-  <img src="https://img.shields.io/badge/PRs-06%2B-blue?style=for-the-badge" alt="prs" />
-  <img src="https://img.shields.io/badge/Open%20Source-Warrior-green?style=for-the-badge" alt="oss" />
-  <img src="https://img.shields.io/badge/LeetCode-1610-ffb86b?style=for-the-badge" alt="leetcode" />
-</p>
+<h3 align="center" style="color:#70d6ff; font-family:monospace;">
+  ⚡ Full Stack Developer • MERN Wizard • Founder of Zyra Digitals ⚡
+</h3>
 
 ---
 
-## 🎮 LOBBY — Live Stats & Retro Heatmap
+<!-- Retro Social Buttons -->
 <p align="center">
-  <!-- Trophies/stats (auto pull) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MohanPrasathSece&theme=onestar&no-frame=true&row=1&column=7" alt="trophies" />
-
-  <!-- GitHub stats (live) -->
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=gruvbox" height="140" alt="github-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanPrasathSece&theme=gruvbox" height="140" alt="streak" />
-</p>
-
-<p align="center">
-  <!-- Contribution snake heatmap (animated SVG provided by platane/snk output) -->
-  <img alt="contribution-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <a href="mailto:mohanprasath563@gmail.com"><img src="https://i.imgur.com/g0xZDRW.gif" width="120"></a>
+  <a href="https://linkedin.com/in/mohan-prasath-frontenddeveloper/"><img src="https://i.imgur.com/YLhF4qH.gif" width="120"></a>
+  <a href="https://github.com/MohanPrasathSece"><img src="https://i.imgur.com/GxqnLFD.gif" width="120"></a>
+  <a href="https://mohanprasath.vercel.app/"><img src="https://i.imgur.com/fBRVG0M.gif" width="120"></a>
 </p>
 
 ---
 
-## 🕹️ PLAY — Pixel Snake (playable)
-Want to play the pixel snake version embedded in this profile?
+## 🎮 **PLAYER 01 — STATUS CARD**
+███ PLAYER : MOHAN PRASATH S
+███ CLASS : FULL STACK DEVELOPER (MERN)
+███ LEVEL : 21
+███ MODE : FREELANCER / FOUNDER – ZYRA DIGITALS
+███ XP : 7+ LIVE PROJECTS, 350+ LeetCode, 700+ SkillRack
+███ POWER : Problem Solving ⚡ UI/UX ⚡ Full Stack Builds ⚡ AI Integrations
 
-▶️ **Play online (GitHub Pages)** — `https://MohanPrasathSece.github.io/<REPO>/snake.html`  
-(Replace `<REPO>` with your repo name; enable Pages for the repo)
-
-Or click the direct link:  
-**[Play Pixel Snake — Fullscreen Retro Game](./snake.html)**
-
-> The game file `snake.html` is included in this repo. Open it locally (double-click) or publish with GitHub Pages.
+yaml
+Copy code
 
 ---
 
-## 🌐 Zyra Digitals — Studio Showcase (Animated Pixel Card)
-I run **Zyra Digitals** — a micro-studio crafting premium, fast, and conversion-first websites at affordable prices.
-
+## 🕹 **Zyra Digitals – Pixel Game Studio**
 <p align="center">
-  <img alt="zyra-card" src="https://raw.githubusercontent.com/MohanPrasathSece/assets/main/zyra-3d-pixel.gif" width="760" />
+  <img src="https://i.imgur.com/7R2jQyR.gif" width="500"/>
 </p>
 
-**Services (extracted from zyradigitals.info):**
-- Custom Business & Portfolio Websites (SEO-ready, fast)
-- Landing Pages & Campaign Pages
-- E-commerce & Payment Integrations
-- Web Apps (React/Vercel + Node/Render)
-- Performance Optimization & Accessibility
-- Affordable maintenance & quick turnarounds
+> **Indie Web Dev Studio** founded in 2025.  
+> Built **7+ commercial websites** across business, healthcare, real estate & marketing.  
+> Specialized in **speed-optimized sites**, **smooth UI**, **custom CMS**, & **full-stack apps**.
 
-**Portfolio highlight:** Zyra builds client websites with a focus on speed, UX, and business outcomes. Check my portfolio: **https://www.zyradigitals.info**
+🔧 **Tech Used:** HTML • CSS • JS • React • Node • MongoDB • WordPress  
+🔥 **Current Mission:** High-performance web apps + AI-powered tools  
 
 ---
 
-## 🧩 Missions — Projects (Pixel Cards, hover to reveal)
+## 👾 **Retro Tech Inventory**
 <p align="center">
-  <a href="https://foodrescuefrontend.vercel.app/" title="Food Rescue Network"><img src="https://raw.githubusercontent.com/MohanPrasathSece/assets/main/pixel-foodrescue.gif" alt="food-rescue" width="220"/></a>
-  &nbsp;&nbsp;
-  <a href="https://medi-smart-frontend.vercel.app/medicines" title="MediSmart-AI"><img src="https://raw.githubusercontent.com/MohanPrasathSece/assets/main/pixel-medismart.gif" alt="medismart" width="220"/></a>
-  &nbsp;&nbsp;
-  <a href="https://inventorytrackerfrontend.netlify.app/" title="Inventory Tracker"><img src="https://raw.githubusercontent.com/MohanPrasathSece/assets/main/pixel-inventory.gif" alt="inventory" width="220"/></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,c,git,github,postman,figma,unity" />
 </p>
 
-**Hover Tip:** On GitHub the images are static. For hover effects, open the repository pages that host interactive previews (or use the live site links above).
+---
+
+## 🛸 **Main Quests (Projects)**  
+Each project is displayed as a **retro arcade cartridge**:
+
+### 🎮 **1. Food Rescue Network**
+► TYPE: MERN STACK
+► ROLE: REAL-TIME FOOD DONATION TRACKING
+► BOOSTS: 40% Faster Load Time • JWT • Role-Based Dashboards
+► CARTRIDGE: https://foodrescuefrontend.vercel.app/
+
+markdown
+Copy code
+
+### 💊 **2. MediSmart-AI**
+► TYPE: AI + MERN
+► ROLE: OCR Prescription Reader + Smart Pharmacy Matching
+► BOOSTS: Realtime Updates • Socket.io • HuggingFace Models
+► CARTRIDGE: https://medi-smart-frontend.vercel.app/medicines
+
+markdown
+Copy code
+
+### 📦 **3. Inventory Tracker**
+► TYPE: MERN
+► ROLE: Tracks Products, Suppliers, Stock Logs
+► BOOSTS: Analytics UI • JWT • MongoDB
+► CARTRIDGE: https://inventorytrackerfrontend.netlify.app/
+
+markdown
+Copy code
+
+### 🍽 **4. DineMate (Java)**
+► TYPE: Core Java + MySQL + JDBC
+► ROLE: Restaurant Table Reservation System
+► CARTRIDGE: https://github.com/MohanPrasathSece/Restaurant-Table-Reservation
+
+yaml
+Copy code
 
 ---
 
-## 🔧 Skill Chips (Animated Pixel Badges)
+## 🌈 **Hacktoberfest – Super Contributor**
 <p align="center">
-  <img alt="skills" src="https://raw.githubusercontent.com/MohanPrasathSece/assets/main/pixel-skills-strip.gif" />
+  <img src="https://i.imgur.com/V8ztB4u.png" width="120">
+  <img src="https://i.imgur.com/JZqlvGD.png" width="120">
+  <img src="https://i.imgur.com/icZyMl1.png" width="120">
+  <img src="https://i.imgur.com/FeTfe38.png" width="120">
+  <img src="https://i.imgur.com/itF4s8m.png" width="120">
+  <img src="https://i.imgur.com/75NDfCG.png" width="120">
 </p>
 
-**Main Skills:** MERN (React • Node • Express • MongoDB), Java, Python, DSA, Unity3D, Figma, Git
+---
+
+## 🧩 **Achievements – Arcade Leaderboard**
+🏆 #1 — VR Escape Room Game (Unity3D)
+🏆 GEN-AI Hackathon: TOP 10 / 133 Teams
+⚡ SkillRack: 700+ Problems
+⚡ LeetCode: 350+ Problems • Max Rating 1610
+⚡ Hacktoberfest Super Contributor 2025
+
+yaml
+Copy code
 
 ---
 
-## 🎓 About Mohan — Pixel Bio
-**Mohan Prasath S** — B.E. ECE (Sri Eshwar College), MERN developer, founder of Zyra Digitals, Hacktoberfest Super Contributor 2025, LeetCode rating **1610**.
+## 🧠 **Certifications (Retro Cards)**
+🟪 NPTEL – Fundamental Algorithms
+🟦 Postman API Student Expert
+🟩 AWS Solutions Architecture – Forage
+🟨 Goldman Sachs Software Engineering – Forage
+🟥 Mastering DSA Using C & C++ – Udemy
 
-**Contact:** mohanprasath563@gmail.com • +91 90254 21149  
-**Portfolio:** https://mohanprasath.vercel.app/ • **Zyra:** https://www.zyradigitals.info
-
----
-
-## 🧾 Achievements & Trophies
-- 🥇 1st Prize — VR Escape Room (Unity3D)  
-- 🧩 700+ solved (SkillRack) • 150+ (CodeChef)  
-- 🏆 Top 10 — Gen-AI Hackathon  
-- 🎖️ Hacktoberfest Super Contributor 2025
+php-template
+Copy code
 
 ---
 
-## 📂 Files included in this repo
-- `README.md` (this file)  
-- `snake.html` (playable Pixel Snake game)  
-- `assets/` — contains pixel GIFs used above (pixel-banner.gif, zyra-3d-pixel.gif, pixel-foodrescue.gif, pixel-medismart.gif, pixel-inventory.gif, pixel-skills-strip.gif)
+## 🐍 **Retro Snake — GitHub Activity**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohanPrasathSece/MohanPrasathSece/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## ⚙️ How to make everything work (short)
-1. Add `snake.html` and `assets/` to your repo root. (I included `assets` URLs above; if you prefer to host them elsewhere, replace the image links.)
-2. If you want the animated banner/pixel gifs, upload them to `/assets/` in the repo and ensure the paths in the README point to them.
-3. Enable GitHub Pages if you want `snake.html` playable online.
-4. Replace placeholders and test the links.
+## 🚀 **GitHub Stats – CRT Terminal Mode**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=neon" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohanPrasathSece&layout=compact&theme=neon" height="170" />
+</p>
 
 ---
 
-## ✨ Want me to:
-- convert the pixel GIFs into inline SVG-animated sprites? (smaller, crisp)  
-- produce the `assets/` GIFs for you (I can generate pixel GIFs & sprites and include them as base64)?  
-- add a tiny profile `intro.html` that contains the retro CSS hover cards and an embedded iframe to `snake.html` (can be served via GitHub Pages)?
+## 🕹 **PRESS START TO CONNECT**
+<p align="center">
+  <img src="https://i.imgur.com/0aB1Kqa.gif" width="400">
+</p>
 
-Reply **“Generate assets”** and I’ll output the GIF/SVG asset files and the exact `snake.html` source next in this thread (ready for copy–paste).
+<p align="center">
+  <a href="mailto:mohanprasath563@gmail.com"><img src="https://i.imgur.com/F3lSOiN.gif" width="120"/></a>
+  <a href="https://linkedin.com/in/mohan-prasath-frontenddeveloper/"><img src="https://i.imgur.com/zZb0m4r.gif" width="120"/></a>
+  <a href="https://mohanprasath.vercel.app/"><img src="https://i.imgur.com/C8egi2w.gif" width="120"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/TuaQfr4.gif" width="500">
+</p>
+
+<p align="center" style="color:#8A2BE2; font-family:monospace;">
+  ✦ Crafted with Neon Pixels • Zyra Digitals • 2025 ✦
+</p>
