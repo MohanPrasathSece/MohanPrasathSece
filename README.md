@@ -1,47 +1,29 @@
 <!-- 
-████████████████████████████████████████████████████████████████████████████████
-█                                                                              █
-█   ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗                          █
-█   ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗  ██║                          █
-█   ██╔████╔██║██║   ██║███████║███████║██╔██╗ ██║                          █
-█   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╗██║                          █
-█   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚████║                          █
-█   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝                          █
-█                                                                              █
-█   ██████╗ ██████╗  █████╗ ███████╗ █████╗ ████████╗██╗  ██╗               █
-█   ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║  ██║               █
-█   ██████╔╝██████╔╝███████║███████╗███████║   ██║   ███████║               █
-█   ██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║   ██║   ██╔══██║               █
-█   ██║     ██║  ██║██║  ██║███████║██║  ██║   ██║   ██║  ██║               █
-█   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝               █
-█                                                                              █
-████████████████████████████████████████████████████████████████████████████████
+🎮 CREATIVE ANIMATED GITHUB PROFILE
+Ultra-short, animation-heavy, unique design
 -->
 
 <div align="center">
 
-<!-- Animated Pixel Border Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=MOHAN%20PRASATH%20S&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Wizard%20|%20Founder%20@%20Zyra%20Digitals&descSize=18&descAlignY=55" width="100%"/>
+<!-- Animated Glitch Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=120&section=header&text=MOHAN%20PRASATH&fontSize=40&fontColor=00FF41&animation=fadeIn&fontAlignY=40" />
 
-<!-- Animated Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8E%AE+PLAYER+01+READY;%E2%9A%A1+MERN+STACK+DEVELOPER;%F0%9F%9A%80+FOUNDER+OF+ZYRA+DIGITALS;%F0%9F%94%A5+HACKTOBERFEST+SUPER+CONTRIBUTOR" alt="Typing SVG" />
+<!-- Animated Typing with Glitch Effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=⚡+MERN+STACK+DEVELOPER;🚀+FOUNDER+@+ZYRA+DIGITALS;🔥+AI+%2B+FULL+STACK+WIZARD" alt="Animated Typing" />
 
-<!-- Pixel Social Badges -->
+<!-- Floating Social Badges -->
 <p>
   <a href="mailto:mohanprasath563@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&logoWidth=20" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧-EMAIL-ff6b6b?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/mohan-prasath-frontenddeveloper/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/💼-LINKEDIN-4ecdc4?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://github.com/MohanPrasathSece">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/MohanPrasathSece/">
-    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/🐙-GITHUB-45b7d1?style=for-the-badge&logoColor=white" />
   </a>
   <a href="https://mohanprasath.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐-PORTFOLIO-96ceb4?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
@@ -49,300 +31,194 @@
 
 ---
 
+<!-- Animated Stats Cards -->
 <div align="center">
 
-## 🎮 PLAYER STATUS CARD
+## ⚡ LIVE STATS
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  👾 PLAYER: MOHAN PRASATH S                                   ║
-║  ⚡ CLASS: FULL STACK DEVELOPER (MERN)                        ║
-║  🎯 LEVEL: 21                                                 ║
-║  🏢 GUILD: ZYRA DIGITALS (FOUNDER)                            ║
-║  📍 LOCATION: COIMBATORE, TAMIL NADU                          ║
-║  💪 XP: 7+ LIVE PROJECTS | 350+ LEETCODE | 700+ SKILLRACK    ║
-║  🔥 POWER: PROBLEM SOLVING • UI/UX • AI INTEGRATION           ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MohanPrasathSece&theme=synthwave&hide_border=true&background=0d1117&stroke=ff6b6b&ring=4ecdc4&fire=45b7d1&currStreakLabel=96ceb4" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=ffffff" />
 
 </div>
 
 ---
 
+<!-- Animated Snake -->
 <div align="center">
 
-## 🚀 ZYRA DIGITALS - WEB DEVELOPMENT STUDIO
+## 🐍 CONTRIBUTION SNAKE
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  ███████╗██╗   ██╗██████╗  █████╗     ██████╗ ██╗ ██████╗      ║
-║  ╚══███╔╝╚██╗ ██╔╝██╔══██╗██╔══██╗    ██╔══██╗██║██╔════╝      ║
-║    ███╔╝  ╚████╔╝ ██████╔╝███████║    ██║  ██║██║██║  ███╗     ║
-║   ███╔╝    ╚██╔╝  ██╔══██╗██╔══██║    ██║  ██║██║██║   ██║     ║
-║  ███████╗   ██║   ██║  ██║██║  ██║    ██████╔╝██║╚██████╔╝     ║
-║  ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═╝ ╚═════╝      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-### 🎯 PROFESSIONAL WEB DEVELOPMENT STUDIO • EST. 2025
-
-**🚀 MISSION:** Crafting high-performance, modern, conversion-focused websites  
-**💼 PORTFOLIO:** Food Rescue Network • MediSmart-AI • Lumi & Co • CrowdVerse + 3 more  
-**🏆 SPECIALTIES:** MERN Stack • AI Integration • Business Solutions • Performance Optimization  
-**⚡ TECH STACK:** React • Node.js • Express • MongoDB • AI/ML • WordPress
-
-**🌐 VISIT STUDIO:** [www.zyradigitals.info](https://www.zyradigitals.info)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+<img src="https://raw.githubusercontent.com/MohanPrasathSece/MohanPrasathSece/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 
 </div>
 
 ---
 
+<!-- Creative Project Showcase -->
 <div align="center">
 
-<div align="center">
+## 🚀 PROJECT UNIVERSE
 
-## 🎯 PROJECT SHOWCASE
+<table>
+<tr>
+<td width="50%">
 
-</div>
-
-<div align="center">
-
-### 🌍 PROJECT 01: FOOD RESCUE NETWORK
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║ 🎮 TYPE: MERN STACK                                      ║
-║ 🎯 MISSION: Real-time food donation tracking system      ║
-║ ⚡ FEATURES:                                              ║
-║    • Live donor-volunteer mapping                        ║
-║    • JWT authentication & role-based access             ║
-║    • Real-time notifications                             ║
-║    • 40% performance optimization                        ║
-║ 🔗 LIVE: https://foodrescuefrontend.vercel.app/          ║
-╚═══════════════════════════════════════════════════════════╝
+### 🌍 FOOD RESCUE NETWORK
+```yaml
+Type: MERN Stack
+Mission: Save food, feed people
+Tech: React • Node • MongoDB
+Status: ✅ Live & Scaling
 ```
+**[🔗 Launch App](https://foodrescuefrontend.vercel.app/)**
 
-### 💊 PROJECT 02: MEDISMART-AI
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║ 🎮 TYPE: AI + MERN STACK                                 ║
-║ 🎯 MISSION: AI-powered prescription analysis             ║
-║ ⚡ FEATURES:                                              ║
-║    • OCR prescription reading (Tesseract.js)             ║
-║    • HuggingFace NLP models integration                  ║
-║    • Smart pharmacy matching algorithm                   ║
-║    • Real-time inventory updates                         ║
-║ 🔗 LIVE: https://medi-smart-frontend.vercel.app/         ║
-╚═══════════════════════════════════════════════════════════╝
-```
+</td>
+<td width="50%">
 
-### 💡 PROJECT 03: LUMI & CO
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║ 🎮 TYPE: BUSINESS WEBSITE                                ║
-║ 🎯 MISSION: Modern lighting solutions platform           ║
-║ ⚡ FEATURES:                                              ║
-║    • Responsive design & mobile optimization             ║
-║    • Product catalog with search & filters              ║
-║    • Contact forms & business inquiries                 ║
-║    • SEO optimized for local search                     ║
-║ 🔗 CLIENT: Zyra Digitals Portfolio Project              ║
-╚═══════════════════════════════════════════════════════════╝
+### 💊 MEDISMART-AI
+```yaml
+Type: AI + MERN
+Mission: Smart prescription analysis
+Tech: OCR • NLP • HuggingFace
+Status: ✅ Live & Learning
 ```
+**[🔗 Launch App](https://medi-smart-frontend.vercel.app/)**
 
-### 🌐 PROJECT 04: CROWDVERSE
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║ 🎮 TYPE: SOCIAL PLATFORM                                 ║
-║ 🎯 MISSION: Community-driven content platform            ║
-║ ⚡ FEATURES:                                              ║
-║    • User authentication & profiles                      ║
-║    • Content creation & sharing tools                    ║
-║    • Real-time interactions & notifications              ║
-║    • Scalable architecture for growth                    ║
-║ 🔗 STATUS: In Development                                ║
-╚═══════════════════════════════════════════════════════════╝
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💡 LUMI & CO
+```yaml
+Type: Business Website
+Mission: Modern lighting solutions
+Tech: React • SEO • Responsive
+Status: 🎯 Client Project
 ```
+**[🔗 Zyra Digitals](https://www.zyradigitals.info)**
+
+</td>
+<td width="50%">
+
+### 🌐 CROWDVERSE
+```yaml
+Type: Social Platform
+Mission: Community-driven content
+Tech: MERN • Real-time • Scalable
+Status: 🚧 In Development
+```
+**[🔗 Coming Soon](#)**
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<!-- Animated Tech Stack -->
 <div align="center">
 
-## 🎨 TECH INVENTORY
+## 🛠️ TECH ARSENAL
 
-<!-- Animated Skill Icons -->
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql&theme=dark&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,git,github,postman,figma&theme=dark&perline=8" />
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,unity,wordpress,tailwind,vercel,netlify,render,linux&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,python,java,html,css,git&theme=dark&perline=10" />
 
 </div>
 
 ---
 
+<!-- Zyra Digitals Showcase -->
 <div align="center">
 
-## 🏆 HACKTOBERFEST 2025 - SUPER CONTRIBUTOR
+## 🏢 ZYRA DIGITALS
 
-<img src="https://img.shields.io/badge/HACKTOBERFEST-2025-FF6B35?style=for-the-badge&logo=hacktoberfest&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/PULL_REQUESTS-06+-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/OPEN_SOURCE-WARRIOR-00FF41?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16&height=2" width="100%" />
 
-```ascii
-╔════════════════════════════════════════════════════════╗
-║  🎃 HACKTOBERFEST ACHIEVEMENT UNLOCKED                ║
-║  ⭐ SUPER CONTRIBUTOR STATUS                          ║
-║  🔥 6+ MERGED PULL REQUESTS                           ║
-║  💪 OPEN SOURCE WARRIOR BADGE                         ║
-╚════════════════════════════════════════════════════════╝
-```
+**🎯 Professional Web Development Studio**  
+*Building high-performance, conversion-focused websites*
+
+**Portfolio:** Food Rescue • MediSmart-AI • Lumi & Co • CrowdVerse + More  
+**Specialties:** MERN Stack • AI Integration • Performance Optimization
+
+<a href="https://www.zyradigitals.info">
+  <img src="https://img.shields.io/badge/🚀-VISIT_STUDIO-ff6b6b?style=for-the-badge&logoColor=white" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16&height=2" width="100%" />
 
 </div>
 
 ---
 
+<!-- Achievement Badges -->
 <div align="center">
 
-## 🐍 GITHUB ACTIVITY HEATMAP
+## 🏆 ACHIEVEMENTS UNLOCKED
 
-<!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/MohanPrasathSece/MohanPrasathSece/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://img.shields.io/badge/🥇-VR_ESCAPE_ROOM_WINNER-gold?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧠-TOP_10_GEN_AI_HACKATHON-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡-700+_SKILLRACK-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🧩-350+_LEETCODE-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎖️-HACKTOBERFEST_SUPER-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎯-RATING_1610-red?style=for-the-badge" />
 
 </div>
 
 ---
 
+<!-- Hacktoberfest Special Section -->
 <div align="center">
 
-## 📊 GITHUB STATS - CRT MONITOR MODE
+## 🎃 HACKTOBERFEST 2025
 
-<!-- GitHub Stats with Retro Theme -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohanPrasathSece&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
+<img src="https://img.shields.io/badge/HACKTOBERFEST-2025_SUPER_CONTRIBUTOR-FF8C00?style=for-the-badge&logo=hacktoberfest&logoColor=white" />
+<img src="https://img.shields.io/badge/PULL_REQUESTS-06+-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/OPEN_SOURCE-WARRIOR-9C27B0?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
 
 </div>
 
 ---
 
+<!-- Contact Section -->
 <div align="center">
 
-## 🏅 ACHIEVEMENT BOARD
+## 💬 LET'S CONNECT
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║  🥇 1ST PRIZE - VR ESCAPE ROOM (UNITY3D)                 ║
-║  🧠 TOP 10 / 133 TEAMS - GEN-AI HACKATHON               ║
-║  ⚡ 700+ PROBLEMS SOLVED - SKILLRACK                     ║
-║  🧩 350+ PROBLEMS SOLVED - LEETCODE                     ║
-║  🎯 MAX LEETCODE RATING: 1610                            ║
-║  🎖️ HACKTOBERFEST SUPER CONTRIBUTOR 2025                ║
-║  🏆 SILVER BADGES - C, JAVA, PYTHON (HACKERRANK)        ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%" />
 
-</div>
-
----
-
-<div align="center">
-
-## 🎓 EDUCATION & CERTIFICATIONS
-
-### 🏫 EDUCATION
-```ascii
-┌───────────────────────────────────────────────────────┐
-│ 🎓 SRI ESHWAR COLLEGE OF ENGINEERING                 │
-│    B.E. ECE | CGPA: 7.7 | 2023-2027                  │
-│                                                        │
-│ 🏫 DR. V. GENGUSWAMY NAIDU MAT. HR. SEC. SCHOOL      │
-│    HSC: 89.5% | SSLC: PASS                           │
-└───────────────────────────────────────────────────────┘
-```
-
-### 📜 CERTIFICATIONS
-```ascii
-┌───────────────────────────────────────────────────────┐
-│ 📘 FUNDAMENTAL ALGORITHMS - NPTEL (2025)             │
-│ 🚀 POSTMAN API STUDENT EXPERT (2025)                 │
-│ ☁️ AWS SOLUTIONS ARCHITECTURE - FORAGE (2025)        │
-│ 🛡️ GOLDMAN SACHS SOFTWARE ENGINEERING - FORAGE       │
-│ 💻 MASTERING DSA USING C & C++ - UDEMY               │
-└───────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🎮 PRESS START TO CONNECT
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗ ║
-║  ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝ ║
-║  ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║    ║
-║  ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║    ║
-║  ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║    ║
-║   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<p>
-  <a href="mailto:mohanprasath563@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/mohan-prasath-frontenddeveloper/">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/MohanPrasathSece">
-    <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
-  </a>
-  <a href="https://mohanprasath.vercel.app/">
-    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-00C853?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfolio"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3" width="100%"/>
-
-**📍 COIMBATORE, TAMIL NADU**  
+**📍 Coimbatore, Tamil Nadu**  
 **📞 +91 90254 21149**  
 **✉️ mohanprasath563@gmail.com**
 
+<p>
+  <a href="mailto:mohanprasath563@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL_ME-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mohan-prasath-frontenddeveloper/">
+    <img src="https://img.shields.io/badge/LINKEDIN-4ecdc4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mohanprasath.vercel.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-45b7d1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,4&height=2" width="100%" />
+
 </div>
 
 ---
 
+<!-- Footer -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&text=GAME%20OVER&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=100&section=footer&text=THANKS_FOR_VISITING&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
 
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  ⚡ CRAFTED WITH PIXEL LOVE • ZYRA DIGITALS • 2025 ⚡        ║
-║  🎮 PRESS START TO CONTINUE 🎮                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+**⚡ Crafted with code & creativity • Zyra Digitals • 2025 ⚡**
 
-<!-- Profile View Counter -->
-<img src="https://komarev.com/ghpvc/?username=MohanPrasathSece&label=ARCADE+VISITORS&color=00FF41&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MohanPrasathSece&label=VISITORS&color=ff6b6b&style=for-the-badge" />
 
 </div>
