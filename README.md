@@ -1,21 +1,21 @@
 <!-- 
-████████████████████████████████████████████████████████████████████████████████
-█                                                                              █
+█████████████████████████████████████████████████████████████████████████████
+█                                                                           █
 █   ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ██╗                          █
 █   ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗  ██║                          █
 █   ██╔████╔██║██║   ██║███████║███████║██╔██╗ ██║                          █
 █   ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╗██║                          █
 █   ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚████║                          █
 █   ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝                          █
-█                                                                              █
+█                                                                           █
 █   ██████╗ ██████╗  █████╗ ███████╗ █████╗ ████████╗██╗  ██╗               █
 █   ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║  ██║               █
 █   ██████╔╝██████╔╝███████║███████╗███████║   ██║   ███████║               █
 █   ██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║   ██║   ██╔══██║               █
 █   ██║     ██║  ██║██║  ██║███████║██║  ██║   ██║   ██║  ██║               █
 █   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝               █
-█                                                                              █
-████████████████████████████████████████████████████████████████████████████████
+█                                                                           █
+█████████████████████████████████████████████████████████████████████████████
 -->
 
 <div align="center">
@@ -234,19 +234,9 @@
 
 <div align="center">
 
-## 🏅 ACHIEVEMENT BOARD
+## � GITHUB ACTIVITY GRAPH
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║  🥇 1ST PRIZE - VR ESCAPE ROOM (UNITY3D)                 ║
-║  🧠 TOP 10 / 133 TEAMS - GEN-AI HACKATHON               ║
-║  ⚡ 700+ PROBLEMS SOLVED - SKILLRACK                     ║
-║  🧩 350+ PROBLEMS SOLVED - LEETCODE                     ║
-║  🎯 MAX LEETCODE RATING: 1610                            ║
-║  🎖️ HACKTOBERFEST SUPER CONTRIBUTOR 2025                ║
-║  🏆 SILVER BADGES - C, JAVA, PYTHON (HACKERRANK)        ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohanPrasathSece&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
@@ -254,37 +244,7 @@
 
 <div align="center">
 
-## 🎓 EDUCATION & CERTIFICATIONS
-
-### 🏫 EDUCATION
-```ascii
-┌───────────────────────────────────────────────────────┐
-│ 🎓 SRI ESHWAR COLLEGE OF ENGINEERING                 │
-│    B.E. ECE | CGPA: 7.7 | 2023-2027                  │
-│                                                        │
-│ 🏫 DR. V. GENGUSWAMY NAIDU MAT. HR. SEC. SCHOOL      │
-│    HSC: 89.5% | SSLC: PASS                           │
-└───────────────────────────────────────────────────────┘
-```
-
-### 📜 CERTIFICATIONS
-```ascii
-┌───────────────────────────────────────────────────────┐
-│ 📘 FUNDAMENTAL ALGORITHMS - NPTEL (2025)             │
-│ 🚀 POSTMAN API STUDENT EXPERT (2025)                 │
-│ ☁️ AWS SOLUTIONS ARCHITECTURE - FORAGE (2025)        │
-│ 🛡️ GOLDMAN SACHS SOFTWARE ENGINEERING - FORAGE       │
-│ 💻 MASTERING DSA USING C & C++ - UDEMY               │
-└───────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 📞 PRESS START TO CONNECT
+## �📞 PRESS START TO CONNECT
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3" width="100%"/>
 
@@ -336,7 +296,7 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
 ║  ⚡ CRAFTED WITH PIXEL LOVE • ZYRA DIGITALS • 2025 ⚡        ║
-║  🎮 PRESS START TO CONTINUE 🎮                               ║
+║  🎮 PRESS START TO CONNECT 🎮                                ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
