@@ -1,114 +1,132 @@
-<!-- 🌟 Unique GitHub Profile README for Mohan Prasath S -->
+<!-- ✨ Ultra-Premium GitHub Profile README for Mohan Prasath S -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#16A34A;">Mohan Prasath S</span></h1>
-<h3 align="center" style="color:#0284C7;">Full Stack Developer | MERN Stack | Tech Explorer</h3>
+<h1 align="center">👋 Hey, I'm <span style="color:#16A34A;">Mohan Prasath S</span></h1>
+<h3 align="center">Full Stack Developer (MERN) • Tech Explorer • Founder of Zyra Digitals</h3>
 
 <p align="center">
   <a href="mailto:mohanprasath563@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohan-prasath-frontenddeveloper/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MohanPrasathSece" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/MohanPrasathSece/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/mohan-prasath-frontenddeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/MohanPrasathSece"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/MohanPrasathSece/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-## 🌎 Portfolio
+## 🐍 Heatmap Snake (Auto Updates Daily)
 
 <p align="center">
-  <a href="https://mohanprasath.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀 Visit My Portfolio-16A34A?style=for-the-badge&logo=vercel&logoColor=white" width="300"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/MohanPrasathSece/MohanPrasathSece/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+## 🔥 GitHub Analytics (Real-time Pull)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanPrasathSece&theme=react&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&langs_count=6&layout=compact&theme=react&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🌟 Zyra Digitals – My Web Development Studio
+
+🚀 I run **Zyra Digitals**, where I build  
+**high-speed, modern, SEO-optimized websites** for affordable pricing.
+
+✔ Business websites  
+✔ Portfolio websites  
+✔ E-commerce  
+✔ Landing pages  
+✔ Full custom code — *no WordPress unless requested*  
+
+👉 **Portfolio:** https://www.zyradigitals.info  
+📩 DM via WhatsApp (number in portfolio)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Mohan Prasath S**, a passionate **MERN Stack Developer** who loves building projects that merge logic, design, and usability.  
-I focus on **real-world applications**, **scalable systems**, and **clean UI design** that solve meaningful problems.
+I’m **Mohan Prasath**, a **MERN Stack Developer** passionate about:
 
-💡 *Currently exploring advanced backend optimization and cloud integrations.*
+⚡ Real-world applications  
+⚡ Clean UI + scalable architecture  
+⚡ Performance-optimized backend systems  
+⚡ AI-integrated apps  
+
+🌱 *Currently exploring cloud systems + advanced backend architecture.*
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🧩 Project | 📝 Description | 🧠 Tech Stack | 🔗 Live Link |
-|-------------|----------------|----------------|---------------|
-| 🌍 **[Food Rescue Network](https://foodrescuefrontend.vercel.app/)** | Connects food donors & volunteers with real-time location-based tracking to reduce food waste. | MongoDB • Express • React • Node.js | [Open App](https://foodrescuefrontend.vercel.app/) |
-| 💊 **[MediSmart-AI](https://medi-smart-frontend.vercel.app/medicines)** | AI-powered prescription analysis & medicine management using OCR & NLP. | React • Node.js • HuggingFace API • MongoDB | [Open App](https://medi-smart-frontend.vercel.app/medicines) |
-| 📦 **[Inventory Tracker](https://inventorytrackerfrontend.netlify.app/)** | Tracks products, suppliers, and stock logs with clean analytics UI. | React • Node.js • MongoDB • Express | [Open App](https://inventorytrackerfrontend.netlify.app/) |
-| 🍽️ **[DineMate](https://github.com/MohanPrasathSece/Restaurant-Table-Reservation)** | Restaurant reservation system for managing customers and table availability. | Java • JDBC • MySQL | [View Repo](https://github.com/MohanPrasathSece/Restaurant-Table-Reservation) |
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| 🌍 **Food Rescue Network** | Real-time donor–volunteer food rescue app with live tracking. | MERN Stack | 🔗 https://foodrescuefrontend.vercel.app/ |
+| 💊 **MediSmart-AI** | OCR + NLP prescription analyzer using HuggingFace. | React • Node.js • MongoDB | 🔗 https://medi-smart-frontend.vercel.app/medicines |
+| 📦 **Inventory Tracker** | Product & supplier tracking with analytics UI. | MERN Stack | 🔗 https://inventorytrackerfrontend.netlify.app/ |
+| 🍽️ **DineMate** | Full restaurant table reservation system. | Java • JDBC • MySQL | 🔗 GitHub Repo |
 
 ---
 
 ## 🧠 Tech Stack
 
-**Languages**  
+### **Languages**
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-E34F26?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript"/>
 </p>
 
-**Frontend & UI**  
+### **Frontend**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,figma,tailwind"/>
 </p>
 
-**Backend & Database**  
+### **Backend & DB**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-black?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 </p>
 
-**Tools & Platforms**  
+### **Tools & Platforms**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,unity"/>
 </p>
 
 ---
 
 ## 🎓 Education
 
-🎓 **Sri Eshwar College of Engineering, Coimbatore**  
-_B.E. – Electronics & Communication Engineering (2023–2027)_  
-**CGPA:** 7.7 *(till 4th semester)*  
+🎓 **Sri Eshwar College of Engineering**  
+B.E. Electronics & Communication Engineering *(2023–2027)*  
+CGPA: **7.7**
 
-🏫 **Dr. V. Genguswamy Naidu Mat. Hr. Sec. School**  
+🏫 **Dr. V. Genguswamy Naidu MHSS**  
 - HSC – 89.5%  
 - SSLC – Pass  
 
 ---
 
-## 🏅 Achievements
+## 🏆 Achievements
 
-- 🥇 **1st Prize** – VR Escape Room (Unity 3D) at Project Expo  
+- 🥇 **1st Prize – VR Escape Room** (Unity 3D)
 - 💡 Solved **700+ problems** on SkillRack  
 - ⭐ Solved **150+ problems** on CodeChef  
-- 🧠 Top **10 finalists** among 133 teams in Gen-AI Hackathon  
-- 🧩 **LeetCode Rating:** 1610  
-- 🎖️ HackerRank Silver Badges in **C**, **Java**, and **Python**
+- 🧠 Top **10 Finalist** in Gen-AI Hackathon  
+- 🧩 LeetCode Rating: **1610**  
+- 🎖 Silver badges – C, Java, Python (HackerRank)
 
 ---
 
 ## 📜 Certifications
 
-- 📘 [Fundamental Algorithms – NPTEL](https://drive.google.com/file/d/1OT4VSd24jCjo1bX5fMbv4QoTEV3v0lS7/view)
-- 🚀 [Postman API Student Expert](https://drive.google.com/file/d/1kfnlMmaypNmYywRLiWlYe2YqwN7fGonn/view)
-- ☁️ [AWS: Solutions Architecture – Forage](https://drive.google.com/file/d/11VPx3D8Qdps3BF6ucuL-UYoe8mnafc__/view)
-- 🛡️ [Goldman Sachs: Software Engineering Virtual Program](https://drive.google.com/file/d/1UTNEA-eAvQQkz6n6Xx86wZfP-HFV5vT-/view)
-- 💻 [Mastering DSA using C & C++ – Udemy](https://drive.google.com/file/d/1FUl5JfS6ZfIz51ESAAr1_AHl8IfIPkEp/view)
+- Fundamental Algorithms – NPTEL  
+- Postman API Student Expert  
+- AWS Solutions Architecture – Forage  
+- Goldman Sachs Engineering Program  
+- Mastering DSA using C & C++ – Udemy  
 
 ---
 
@@ -123,8 +141,8 @@ _B.E. – Electronics & Communication Engineering (2023–2027)_
 
 ---
 
-<p align="center" style="font-size:15px; color:#16A34A;">
-  ✨ “Crafting scalable web experiences that merge design, logic, and innovation.” ✨
+<p align="center" style="font-size:15px;">
+✨ *“Crafting scalable web experiences that merge design, logic, and innovation.”* ✨
 </p>
 
 <p align="center">
