@@ -21,7 +21,7 @@
 <div align="center">
 
 <!-- Animated Pixel Border Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=MOHAN%20PRASATH%20S&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Wizard%20|%20Founder%20@%20Zyra%20Digitals&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=MOHAN%20PRASATH%20S&fontSize=50&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Wizard%20|%20Founder%20@%20Zyra%20Digitals&descSize=18&descAlignY=55" width="100%"/>
 
 <!-- Animated Typing Effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%8E%AE+PLAYER+01+READY;%E2%9A%A1+MERN+STACK+DEVELOPER;%F0%9F%9A%80+FOUNDER+OF+ZYRA+DIGITALS;%F0%9F%94%A5+HACKTOBERFEST+SUPER+CONTRIBUTOR" alt="Typing SVG" />
@@ -71,36 +71,31 @@
 
 <div align="center">
 
-## 🕹️ ZYRA DIGITALS - GAME STUDIO
+## 🚀 ZYRA DIGITALS - WEB DEVELOPMENT STUDIO
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ```ascii
-██████████████████████████████████████████████████████████████
-█  ███████╗██╗   ██╗██████╗  █████╗                          █
-█  ╚══███╔╝╚██╗ ██╔╝██╔══██╗██╔══██╗                         █
-█    ███╔╝  ╚████╔╝ ██████╔╝███████║                         █
-█   ███╔╝    ╚██╔╝  ██╔══██╗██╔══██║                         █
-█  ███████╗   ██║   ██║  ██║██║  ██║                         █
-█  ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝                         █
-█                                                              █
-█  ██████╗ ██╗ ██████╗ ██╗████████╗ █████╗ ██╗     ███████╗ █
-█  ██╔══██╗██║██╔════╝ ██║╚══██╔══╝██╔══██╗██║     ██╔════╝ █
-█  ██║  ██║██║██║  ███╗██║   ██║   ███████║██║     ███████╗ █
-█  ██║  ██║██║██║   ██║██║   ██║   ██╔══██║██║     ╚════██║ █
-█  ██████╔╝██║╚██████╔╝██║   ██║   ██║  ██║███████╗███████║ █
-█  ╚═════╝ ╚═╝ ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝ █
-██████████████████████████████████████████████████████████████
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  ███████╗██╗   ██╗██████╗  █████╗     ██████╗ ██╗ ██████╗      ║
+║  ╚══███╔╝╚██╗ ██╔╝██╔══██╗██╔══██╗    ██╔══██╗██║██╔════╝      ║
+║    ███╔╝  ╚████╔╝ ██████╔╝███████║    ██║  ██║██║██║  ███╗     ║
+║   ███╔╝    ╚██╔╝  ██╔══██╗██╔══██║    ██║  ██║██║██║   ██║     ║
+║  ███████╗   ██║   ██║  ██║██║  ██║    ██████╔╝██║╚██████╔╝     ║
+║  ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═╝ ╚═════╝      ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-### 🚀 INDIE WEB DEV STUDIO • EST. 2025
+### 🎯 PROFESSIONAL WEB DEVELOPMENT STUDIO • EST. 2025
 
-**🎯 MISSION:** Building high-speed, modern, SEO-optimized websites  
-**💼 PROJECTS:** 7+ commercial websites delivered  
-**🏆 SPECIALTIES:** Business • Healthcare • Real Estate • Marketing  
-**⚡ TECH STACK:** React • Node.js • MongoDB • WordPress • Express
+**🚀 MISSION:** Crafting high-performance, modern, conversion-focused websites  
+**💼 PORTFOLIO:** Food Rescue Network • MediSmart-AI • Lumi & Co • CrowdVerse + 3 more  
+**🏆 SPECIALTIES:** MERN Stack • AI Integration • Business Solutions • Performance Optimization  
+**⚡ TECH STACK:** React • Node.js • Express • MongoDB • AI/ML • WordPress
 
-**🔗 VISIT:** [www.zyradigitals.info](https://www.zyradigitals.info)
+**🌐 VISIT STUDIO:** [www.zyradigitals.info](https://www.zyradigitals.info)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
@@ -110,64 +105,71 @@
 
 <div align="center">
 
-## 🎯 MAIN QUESTS - PROJECTS
+<div align="center">
+
+## 🎯 PROJECT SHOWCASE
 
 </div>
 
-### 🌍 QUEST 01: FOOD RESCUE NETWORK
+<div align="center">
+
+### 🌍 PROJECT 01: FOOD RESCUE NETWORK
 ```ascii
-┌─────────────────────────────────────────────────────────┐
-│ 🎮 TYPE: MERN STACK                                    │
-│ 🎯 MISSION: Real-time food donation tracking           │
-│ ⚡ POWER-UPS:                                           │
-│    • 40% faster load time                              │
-│    • JWT authentication                                │
-│    • Role-based dashboards                             │
-│    • Live donor-volunteer mapping                      │
-│ 🔗 PLAY: https://foodrescuefrontend.vercel.app/        │
-└─────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║ 🎮 TYPE: MERN STACK                                      ║
+║ 🎯 MISSION: Real-time food donation tracking system      ║
+║ ⚡ FEATURES:                                              ║
+║    • Live donor-volunteer mapping                        ║
+║    • JWT authentication & role-based access             ║
+║    • Real-time notifications                             ║
+║    • 40% performance optimization                        ║
+║ 🔗 LIVE: https://foodrescuefrontend.vercel.app/          ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-### 💊 QUEST 02: MEDISMART-AI
+### 💊 PROJECT 02: MEDISMART-AI
 ```ascii
-┌─────────────────────────────────────────────────────────┐
-│ 🎮 TYPE: AI + MERN STACK                               │
-│ 🎯 MISSION: OCR prescription analyzer                  │
-│ ⚡ POWER-UPS:                                           │
-│    • Tesseract.js OCR engine                           │
-│    • HuggingFace NLP models                            │
-│    • Real-time pharmacy matching                       │
-│    • Socket.io live updates                            │
-│ 🔗 PLAY: https://medi-smart-frontend.vercel.app/       │
-└─────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║ 🎮 TYPE: AI + MERN STACK                                 ║
+║ 🎯 MISSION: AI-powered prescription analysis             ║
+║ ⚡ FEATURES:                                              ║
+║    • OCR prescription reading (Tesseract.js)             ║
+║    • HuggingFace NLP models integration                  ║
+║    • Smart pharmacy matching algorithm                   ║
+║    • Real-time inventory updates                         ║
+║ 🔗 LIVE: https://medi-smart-frontend.vercel.app/         ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-### 📦 QUEST 03: INVENTORY TRACKER
+### 💡 PROJECT 03: LUMI & CO
 ```ascii
-┌─────────────────────────────────────────────────────────┐
-│ 🎮 TYPE: MERN STACK                                    │
-│ 🎯 MISSION: Product & supplier management              │
-│ ⚡ POWER-UPS:                                           │
-│    • 100+ product tracking                             │
-│    • Analytics dashboard                               │
-│    • JWT role-based access                             │
-│    • Stock log system                                  │
-│ 🔗 PLAY: https://inventorytrackerfrontend.netlify.app/ │
-└─────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║ 🎮 TYPE: BUSINESS WEBSITE                                ║
+║ 🎯 MISSION: Modern lighting solutions platform           ║
+║ ⚡ FEATURES:                                              ║
+║    • Responsive design & mobile optimization             ║
+║    • Product catalog with search & filters              ║
+║    • Contact forms & business inquiries                 ║
+║    • SEO optimized for local search                     ║
+║ 🔗 CLIENT: Zyra Digitals Portfolio Project              ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
-### 🍽️ QUEST 04: DINEMATE
+### 🌐 PROJECT 04: CROWDVERSE
 ```ascii
-┌─────────────────────────────────────────────────────────┐
-│ 🎮 TYPE: JAVA + MYSQL                                  │
-│ 🎯 MISSION: Restaurant table reservation               │
-│ ⚡ POWER-UPS:                                           │
-│    • JDBC connectivity                                 │
-│    • Customer management                               │
-│    • Table availability tracking                       │
-│ 🔗 REPO: github.com/MohanPrasathSece/Restaurant-Table  │
-└─────────────────────────────────────────────────────────┘
+╔═══════════════════════════════════════════════════════════╗
+║ 🎮 TYPE: SOCIAL PLATFORM                                 ║
+║ 🎯 MISSION: Community-driven content platform            ║
+║ ⚡ FEATURES:                                              ║
+║    • User authentication & profiles                      ║
+║    • Content creation & sharing tools                    ║
+║    • Real-time interactions & notifications              ║
+║    • Scalable architecture for growth                    ║
+║ 🔗 STATUS: In Development                                ║
+╚═══════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
@@ -284,21 +286,21 @@
 
 <div align="center">
 
-## 📞 PRESS START TO CONNECT
+## 🎮 PRESS START TO CONNECT
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16,18,20&height=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ```ascii
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║     ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗    ║
-║    ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝    ║
-║    ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗      ║
-║    ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝      ║
-║    ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗    ║
-║     ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝    ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║   ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗ ║
+║  ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝ ║
+║  ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║    ║
+║  ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║    ║
+║  ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║    ║
+║   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝    ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
 ```
 
 <p>
