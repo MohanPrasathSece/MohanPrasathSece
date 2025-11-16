@@ -1,5 +1,3 @@
-# ⚡ Mohan Prasath S — Modern Developer Profile
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFA3,100:0077FF&height=120&text=MOHAN%20PRASATH%20S&fontSize=55&fontColor=ffffff&fontAlignY=35" width="100%"/>
 
 <div align="center">
