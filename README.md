@@ -1,77 +1,112 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=MOHAN%20PRASATH%20S&fontSize=45&fontColor=fff&animation=twinkling" width="100%"/>
+# Mohan Prasath S
+
+<!-- HEADER GRAPHIC -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=MOHAN%20PRASATH%20S&fontSize=55&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=FULL+STACK+DEVELOPER;MERN+STACK+WIZARD;FOUNDER+OF+ZYRA+DIGITALS;AI+%7C+WEB+%7C+APP+DEVELOPER" />
+<!-- Typing Animation -->
 
-<!-- Social Badges -->
-<p>
-  <a href="mailto:mohanprasath563@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohan-prasath-frontenddeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/MohanPrasathSece"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/MohanPrasathSece/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00FFAA&center=true&vCenter=true&width=750&lines=FULL+STACK+DEVELOPER;AI%20%2F%20ML%20ENTHUSIAST;FOUNDER%20OF%20ZYRA%20DIGITALS;MERN%20STACK%20%7C%20WEB%20%7C%20APP%20DEVELOPER" />
 
 </div>
 
 ---
 
-## 🚀 ABOUT ME  
-- Full Stack Developer (MERN)  
-- Founder @ **Zyra Digitals**  
-- 7+ Real-world Projects • 350+ LeetCode • 700+ SkillRack  
-- Passionate about UI/UX, AI, automation & scalable systems  
+## 🚀 About Me
+
+* Full Stack Developer (MERN)
+* Founder @ **Zyra Digitals**
+* 7+ Real-world Projects • 350+ LeetCode • 700+ SkillRack
+* Focus on AI, scalable apps, UI/UX, and automation systems
 
 ---
 
-## 🎯 FEATURED PROJECTS
+## 📦 Featured Projects (Detailed Boxes)
 
-### 🔥 **1. MediSmart-AI (AI + MERN)**
-AI-powered prescription analyzer with OCR, NLP & live pharmacy mapping.  
-🔗 https://medi-smart-frontend.vercel.app/
+### 🧠 **1. MediSmart-AI (AI + MERN)**
 
----
+> **AI-powered medical prescription analyzer** using OCR, Deep Learning & NLP.
 
-### 🔐 **2. RFID WALLET SYSTEM**
-A secure RFID-based authentication & auto-transaction wallet system (Java + Firebase).  
-🔗 (Private Repo)
-
----
-
-### 💡 **3. Lumi & Co – Dental Website**
-Ultra-fast business website built with HTML/CSS/JS + SEO optimization.  
-🔗 https://lumi-co.vercel.app/
+* Extracts medicine names & dosage
+* Finds nearby pharmacies
+* Clean UI + secure backend
+* **Tech:** React, Node.js, Express, MongoDB, OCR API, Tailwind
+* **Live:** [https://medi-smart-frontend.vercel.app/](https://medi-smart-frontend.vercel.app/)
 
 ---
 
-### 🌐 **4. Zyra Digitals – Personal Agency**
-Business website for web development services (Founder).  
-🔗 https://www.zyradigitals.info/
+### 🔐 **2. RFID Wallet System (Java + Firebase)**
+
+> Smart RFID-based transaction + authentication wallet.
+
+* Auto-deduction system
+* Refill & user management dashboard
+* Fast Java backend + Firebase realtime DB
+* **Private repository** (on request)
 
 ---
 
-## 🛠 TECH STACK  
+### 💎 **3. Lumi & Co – Dental Website**
+
+> Professional, SEO-optimized dental clinic website.
+
+* Responsive UI
+* Services showcase + booking CTA
+* Ultra-fast load time
+* **Live:** [https://lumi-co.vercel.app/](https://lumi-co.vercel.app/)
+
+---
+
+### 🌐 **4. Zyra Digitals – Official Agency Website**
+
+> Personal web agency providing modern, fast, business websites.
+
+* Web solutions for small + medium businesses
+* Custom landing pages + dashboards
+* **Live:** [https://www.zyradigitals.info/](https://www.zyradigitals.info/)
+
+---
+
+## 🔧 Tech Stack
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,c,cpp,git,postman,figma,vscode,unity,tailwind,vercel,netlify&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,c,cpp,git,postman,figma,tailwind,vscode,unity,vercel,netlify&theme=dark&perline=10"/>
 </div>
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GitHub Analytics (Graphs + Heatmap + Streaks)
+
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MohanPrasathSece&theme=chartreuse-dark&hide_border=true"/>
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=MohanPrasathSece&theme=dracula&hide_border=true" height="180" />
+
+### 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=radical&hide_border=true" height="180" />
+
+### 🧊 Heatmap
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohanPrasathSece&theme=react-dark&hide_border=true" />
+
+### 📚 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&layout=compact&theme=radical&hide_border=true" height="160" />
+
 </div>
 
 ---
 
-## 📞 CONTACT  
-📍 Coimbatore, Tamil Nadu  
-📧 **mohanprasath563@gmail.com**  
-🌐 **Portfolio:** https://mohanprasath.vercel.app/
+## 📞 Contact
+
+* 📧 Email: **[mohanprasath563@gmail.com](mailto:mohanprasath563@gmail.com)**
+* 🌐 Portfolio: **[https://mohanprasath.vercel.app/](https://mohanprasath.vercel.app/)**
+* 📍 Coimbatore, Tamil Nadu
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff" width="100%"/>
