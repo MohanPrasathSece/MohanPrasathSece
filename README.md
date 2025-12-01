@@ -1,38 +1,33 @@
-<!-- HEADER -->
+<!-- INTRO TYPING ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,100:0077FF&height=220&text=MOHAN%20PRASATH%20S&fontSize=55&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;MERN+%7C+JAVA+%7C+AI+PROJECTS;CLEAN+UI+DESIGNER;BUILDING+FAST+%26+REAL+WEB+APPS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Mohan+Prasath+S;Full+Stack+Developer;MERN+%7C+Java+%7C+AI+Projects;Clean+UI+%26+Fast+Backends" />
 </p>
 
 ---
 
 # 👋 About Me
+I'm **Mohan**, a Full Stack Developer from Coimbatore, focused on building  
+**fast**, **clean**, and **real-world** applications using MERN, Java, and AI-powered tools.
 
-I’m **Mohan**, a **Full Stack Developer** from Coimbatore.  
-I build **fast**, **clean**, and **user-focused** applications — mostly with **MERN**, **Java**, and **AI-based tools**.
-
-I love:
-- Minimal & aesthetic UI  
-- Smart backend logic  
-- Turning ideas → real deployed apps  
-- Working with JavaScript, APIs, OCR, AI models  
+I enjoy:
+- Creating smart backend systems  
+- Designing minimal & aesthetic UI  
+- Working with APIs, OCR, and AI models  
+- Deploying full-stack projects that feel smooth & professional  
 
 ---
 
-# 🚀 Featured Projects (Just 2 — Clean & Minimal)
+# 🚀 Featured Projects (Only 2, Clean & Minimal)
 
-## 🧠 **MediSmart-AI**
-AI-powered prescription reader + pharmacy system  
-**Tech:** React, Node, MongoDB, OCR  
+## 🧠 MediSmart-AI  
+AI-powered prescription reader + pharmacy dashboard  
+**Tech:** React, Node.js, MongoDB, OCR  
 🔗 Live: https://medi-smart-frontend.vercel.app/
 
 ---
 
-## 🌐 **Lumi & Co.**
-Fast, clean & modern business website  
+## 🌐 Lumi & Co.  
+Minimal, fast, modern website for a dental clinic  
 **Tech:** HTML, CSS, JavaScript  
 🔗 Live: https://lumi-co.vercel.app/
 
@@ -46,11 +41,11 @@ Fast, clean & modern business website
 
 ---
 
-# 📊 GitHub Analytics (More Graphs + More Visuals)
+# 📊 GitHub Analytics (More Graphs + Animations)
 
-## 🔥 Streak
+## 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohanPrasathSece&theme=tokyonight&hide_border=true&animation=fadeIn" height="190"/>
+  <img src="https://streak-stats.demolab.com?user=MohanPrasathSece&theme=tokyonight&hide_border=true" height="190"/>
 </p>
 
 ## 📈 Contribution Graph
@@ -66,26 +61,19 @@ Fast, clean & modern business website
 
 ---
 
-# 📊 Extra Cool Graph (Animated Snake Contribution)
-
+# 🐍 Animated Contribution Snake
 <p align="center">
-  <img src="https://github.com/MohanPrasathSece/MohanPrasathSece/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/MohanPrasathSece/MohanPrasathSece/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
-(If the snake doesn’t load, I can generate the workflow for you.)
+*(If you want the snake workflow setup, I can generate it for you.)*
 
 ---
 
-# 🌐 Connect With Me
-
+# 🌐 Connect With Me  
 📧 **Email:** mohanprasath563@gmail.com  
-🌍 **Portfolio:** https://mohanprasath.vercel.app/  
-🔗 **LinkedIn:** *(Add your link)*  
+🔗 **Portfolio:** https://mohanprasath.vercel.app/  
+💼 **LinkedIn:** *(Add your link)*  
 🐙 **GitHub:** https://github.com/MohanPrasathSece  
-🎯 **Location:** Coimbatore, Tamil Nadu  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00FFA3&height=140&section=footer&animation=twinkling"/>
-</p>
+🧮 **LeetCode:** *(Add your link)*  
+📍 Coimbatore, Tamil Nadu
