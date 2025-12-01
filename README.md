@@ -1,4 +1,3 @@
-<!-- ========== HEADER ========== -->
 <h1 align="center">Hi, I'm Mohan Prasath S 👋</h1>
 
 <p align="center">
@@ -7,52 +6,46 @@
 
 ---
 
-<!-- ========== SKILLS & TOOLS ========== -->
 ## 🛠 Skills & Tools
 
-### **Languages**
+<p align="center"><b>Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp" />
 </p>
 
-### **Frontend**
+<p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-  <img src="https://skillicons.dev/icons?i=wordpress" />
-  <img src="https://skillicons.dev/icons?i=wix" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,wordpress,wix" />
 </p>
 
-### **Backend**
+<p align="center"><b>Backend</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### **Database**
+<p align="center"><b>Database</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
-### **Deployment**
+<p align="center"><b>Deployment</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
-  <img src="https://skillicons.dev/icons?i=render" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,render" />
 </p>
 
-### **Tools**
+<p align="center"><b>Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,canva,vscode,linux" />
 </p>
 
 ---
 
-<!-- ========== PROJECTS ========== -->
 ## 🚀 Featured Projects
 
 ### 🧠 MediSmart-AI
 <p align="center">
   AI-powered prescription reader (OCR + MERN)  
-  <br>
-  🔗 <a href="https://medi-smart-frontend.vercel.app/">Live Demo</a>
+  <br> 🔗 <a href="https://medi-smart-frontend.vercel.app/">Live Demo</a>
 </p>
 
 ---
@@ -60,26 +53,24 @@
 ### 💎 Lumi & Co
 <p align="center">
   Clean & modern business website  
-  <br>
-  🔗 <a href="https://lumi-co.vercel.app/">Live Site</a>
+  <br> 🔗 <a href="https://lumi-co.vercel.app/">Live Site</a>
 </p>
 
 ---
 
-<!-- ========== GITHUB GRAPH CARDS ========== -->
 ## 📈 GitHub Overview
 
-### ⭐ Stats  
+### ⭐ GitHub Stats  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&layout=compact&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=transparent&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&layout=compact&theme=transparent&hide_border=false" />
 </p>
 
 ---
 
-### 🔥 Streak  
+### 🔥 Streak Stats  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohanPrasathSece&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MohanPrasathSece&theme=transparent&hide_border=false" />
 </p>
 
 ---
@@ -93,12 +84,11 @@
 
 ### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/MohanPrasathSece/MohanPrasathSece/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MohanPrasathSece/MohanPrasathSece/output/snake.svg" />
 </p>
 
 ---
 
-<!-- ========== FOOTER ========== -->
 ## 📬 Contact
 
 <p align="center">
