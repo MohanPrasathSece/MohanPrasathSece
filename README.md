@@ -1,5 +1,6 @@
 <!-- ========== HEADER ========== -->
 <h1 align="center">Hi, I'm Mohan Prasath S 👋</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2400&pause=700&color=3AA6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+%7C+Java+%7C+AI+Projects;Clean+%26+Modern+Web+Applications" />
 </p>
@@ -10,28 +11,36 @@
 ## 🛠 Skills & Tools
 
 ### **Languages**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp" />
 </p>
 
 ### **Frontend**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://skillicons.dev/icons?i=wix" />
 </p>
 
 ### **Backend**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### **Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### **Deployment**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=render" />
 </p>
 
 ### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,canva,vscode,linux" />
 </p>
 
 ---
@@ -39,22 +48,28 @@
 <!-- ========== PROJECTS ========== -->
 ## 🚀 Featured Projects
 
-### 🧠 **MediSmart-AI**
-AI-powered prescription reader (OCR + MERN)  
-🔗 https://medi-smart-frontend.vercel.app/
+### 🧠 MediSmart-AI
+<p align="center">
+  AI-powered prescription reader (OCR + MERN)  
+  <br>
+  🔗 <a href="https://medi-smart-frontend.vercel.app/">Live Demo</a>
+</p>
 
 ---
 
-### 💎 **Lumi & Co**
-Clean & modern business website  
-🔗 https://lumi-co.vercel.app/
+### 💎 Lumi & Co
+<p align="center">
+  Clean & modern business website  
+  <br>
+  🔗 <a href="https://lumi-co.vercel.app/">Live Site</a>
+</p>
 
 ---
 
 <!-- ========== GITHUB GRAPH CARDS ========== -->
 ## 📈 GitHub Overview
 
-### ⭐ GitHub Stats  
+### ⭐ Stats  
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=transparent&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&layout=compact&theme=transparent&hide_border=true" />
@@ -62,7 +77,7 @@ Clean & modern business website
 
 ---
 
-### 🔥 Streak Stats  
+### 🔥 Streak  
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MohanPrasathSece&theme=transparent&hide_border=true" />
 </p>
@@ -94,4 +109,3 @@ Clean & modern business website
 </p>
 
 <p align="center">📍 Coimbatore, Tamil Nadu</p>
-
