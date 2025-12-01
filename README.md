@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;AI+%26+WEB+ENTHUSIAST;MERN+STACK+%7C+JAVA+%7C+FIREBASE;I+BUILD+PRODUCTS+THAT+SOLVE+REAL+PROBLEMS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=26&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;TECH+%26+AND AI +ENTHUSIAST;MERN+STACK+%7C+JAVA+%7C+FIREBASE;I+BUILD+PRODUCTS+THAT+SOLVE+REAL+PROBLEMS" />
 </p>
 
 ---
