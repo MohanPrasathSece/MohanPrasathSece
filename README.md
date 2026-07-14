@@ -59,7 +59,7 @@
 <p align="center">
   A modern digital experience built for a UK-based dental recruitment agency.
   <br><br>
-  <a href="happydentalagency.co.uk">
+  <a href="https://happydentalagency.co.uk/">
     <b>Explore Website →</b>
   </a>
 </p>
@@ -99,6 +99,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohanPrasathSece&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohanPrasathSece/MohanPrasathSece/output/snake.svg" alt="Contribution Snake" />
+</p>
+
 ---
 
 ## 📬 Let's Create Something Different
@@ -116,7 +122,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
   </a>
 
-  <a href="https://mohanprasath.vercel.app/">
+  <a href="https://mohanprasath.in/">
     <img src="https://skillicons.dev/icons?i=vercel" width="42"/>
   </a>
 </p>
