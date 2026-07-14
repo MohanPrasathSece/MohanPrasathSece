@@ -12,6 +12,12 @@
   I shape bold identities and build digital experiences worth remembering.
 </p>
 
+<p align="center">
+  <a href="https://mohanprasath.vercel.app/">
+    <b>Explore My Portfolio →</b>
+  </a>
+</p>
+
 ---
 
 <h3 align="center">
@@ -25,18 +31,15 @@
 ## 🛠 Creative Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,html,css,js,react,tailwind,wordpress" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,html,css,js,react,tailwind,wordpress,nodejs,express,mongodb,mysql,git,github,vscode,vercel" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Brand%20Design-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Visual%20Identity-3AA6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Creative%20Direction-7C3AED?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,git,github,vscode" />
+  Brand Design&nbsp;&nbsp;•&nbsp;&nbsp;
+  Visual Identity&nbsp;&nbsp;•&nbsp;&nbsp;
+  UI Design&nbsp;&nbsp;•&nbsp;&nbsp;
+  Creative Direction&nbsp;&nbsp;•&nbsp;&nbsp;
+  AI-Powered Design
 </p>
 
 ---
@@ -51,22 +54,26 @@
 
 ## 🚀 Selected Work
 
-### 🧠 MediSmart AI
+### 🦷 Happy Dental Agency
 
 <p align="center">
-  AI-powered prescription reader built using OCR and modern web technologies.
+  A modern digital experience built for a UK-based dental recruitment agency.
   <br><br>
-  <a href="https://medi-smart-frontend.vercel.app/"><b>View Project →</b></a>
+  <a href="#">
+    <b>Explore Website →</b>
+  </a>
 </p>
 
 ---
 
-### 💎 Lumi & Co
+### ✦ XIVI
 
 <p align="center">
-  A minimal business website designed around clarity, identity, and experience.
+  A bold and modern digital experience where clean design meets strong identity.
   <br><br>
-  <a href="https://lumi-co.vercel.app/"><b>View Website →</b></a>
+  <a href="https://xivi.in/">
+    <b>Explore Website →</b>
+  </a>
 </p>
 
 ---
@@ -94,7 +101,7 @@
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let's Create Something Different
 
 <p align="center">
   <a href="mailto:mohanprasath563@gmail.com">
