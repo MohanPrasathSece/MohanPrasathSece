@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mohanprasath.vercel.app/">
+  <a href="https://mohanprasath.in/">
     <b>Explore My Portfolio →</b>
   </a>
 </p>
