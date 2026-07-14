@@ -1,91 +1,51 @@
 <h1 align="center">Hey, I'm Mohan Prasath S 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2300&pause=700&color=3AA6FF&center=true&vCenter=true&width=750&lines=Brand+Designer+Who+Builds+Different;Turning+Ideas+Into+Brands;Designing+Bold.+Building+Smart.;Brands+That+Refuse+To+Blend+In." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2400&pause=700&color=3AA6FF&center=true&vCenter=true&width=700&lines=Brand+Designer;Freelance+Web+Designer;Building+Brands+That+Stand+Out;Designing+Beyond+the+Ordinary." />
 </p>
 
 <p align="center">
-  <b>Brand Designer ⚡ Web Creator ⚡ Digital Storyteller</b>
+  <b>Brand Designer • Web Designer • Creative Developer</b>
 </p>
 
 <p align="center">
-  I don't just make things look good.<br>
-  I build brands people remember and digital experiences they don't scroll past.
+  I shape bold identities and build digital experiences worth remembering.
 </p>
 
 ---
 
-## ⚡ The Person Behind the Pixels
-
-* 🎨 Turning raw ideas into brands with identity, attitude, and impact
-* 💻 Designing websites that look sharp, feel premium, and refuse to be boring
-* 🚀 Built and launched **40+ digital experiences** for businesses and growing brands
-* 🧠 Blending strategy, creativity, design, and technology into one powerful experience
-* 🤖 Using AI as a creative weapon — not a replacement for creativity
-* ✨ Creating visuals that speak before the words do
+<h3 align="center">
+  ✦ BRANDING WITH CHARACTER&nbsp;&nbsp;•&nbsp;&nbsp;
+  WEBSITES WITH IMPACT&nbsp;&nbsp;•&nbsp;&nbsp;
+  DESIGN WITHOUT THE NOISE ✦
+</h3>
 
 ---
 
-## 🎯 What I Bring to the Table
+## 🛠 Creative Stack
 
 <p align="center">
-  ⚡ Brands That Refuse to Blend In
-  <br><br>
-  🎨 Visual Identities With Personality
-  <br><br>
-  💻 Websites Built to Be Remembered
-  <br><br>
-  🧠 Creative Direction With Purpose
-  <br><br>
-  🚀 Digital Experiences That Demand Attention
-  <br><br>
-  🤖 AI-Powered Ideas With Human Creativity
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,html,css,js,react,tailwind,wordpress" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brand%20Design-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Visual%20Identity-3AA6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Creative%20Direction-7C3AED?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,git,github,vscode" />
 </p>
 
 ---
 
-## 🧰 The Creative Arsenal
-
-<p align="center"><b>Designing the Identity</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Brand%20Strategy-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visual%20Identity-3AA6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creative%20Direction-7C3AED?style=for-the-badge" />
-</p>
-
-<p align="center"><b>Building the Experience</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,wordpress,wix" />
-</p>
-
-<p align="center"><b>Powering What's Behind It</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-<p align="center"><b>Shipping Ideas to the Internet</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,render" />
-</p>
-
-<p align="center"><b>Tools Behind the Magic</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered%20Creativity-111827?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+<h3 align="center">
+  40+ WEBSITES&nbsp;&nbsp;✦&nbsp;&nbsp;
+  MULTIPLE INDUSTRIES&nbsp;&nbsp;✦&nbsp;&nbsp;
+  ONE CREATIVE VISION
+</h3>
 
 ---
 
@@ -94,11 +54,9 @@
 ### 🧠 MediSmart AI
 
 <p align="center">
-  Prescriptions are complicated. This makes them smarter.
-  <br>
-  An AI-powered prescription reader combining OCR with modern web technology.
+  AI-powered prescription reader built using OCR and modern web technologies.
   <br><br>
-  🔗 <a href="https://medi-smart-frontend.vercel.app/">See It in Action</a>
+  <a href="https://medi-smart-frontend.vercel.app/"><b>View Project →</b></a>
 </p>
 
 ---
@@ -106,47 +64,29 @@
 ### 💎 Lumi & Co
 
 <p align="center">
-  Minimal by design. Premium by experience.
-  <br>
-  A modern business website built to make simplicity feel powerful.
+  A minimal business website designed around clarity, identity, and experience.
   <br><br>
-  🔗 <a href="https://lumi-co.vercel.app/">Explore the Experience</a>
+  <a href="https://lumi-co.vercel.app/"><b>View Website →</b></a>
 </p>
 
 ---
 
-## 💼 Built Beyond the Portfolio
-
-<p align="center">
-  <b>40+ websites. Multiple industries. Zero copy-paste experiences.</b>
-</p>
-
-<p align="center">
-  From the first idea to the final launch, I turn blank screens into digital identities built to stand out, connect, and leave an impression.
-</p>
+<h3 align="center">
+  IDEAS → IDENTITIES → EXPERIENCES
+</h3>
 
 ---
 
-## 📈 The GitHub Side
-
-### ⭐ Code in Numbers
+## 📈 GitHub Overview
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=transparent&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&layout=compact&theme=transparent&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&layout=compact&theme=transparent&hide_border=true" />
 </p>
-
----
-
-### 🔥 Keeping the Momentum
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MohanPrasathSece&theme=transparent&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=MohanPrasathSece&theme=transparent&hide_border=true" />
 </p>
-
----
-
-### 🧩 The Build Trail
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohanPrasathSece&theme=react-dark&hide_border=true&area=true" />
@@ -154,39 +94,33 @@
 
 ---
 
-### 🐍 Watch the Contributions Move
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MohanPrasathSece/MohanPrasathSece/output/snake.svg" />
-</p>
-
----
-
-## 📬 Got an Idea? Let's Make It Impossible to Ignore.
+## 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:mohanprasath563@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="42"/>
   </a>
 
   <a href="https://github.com/MohanPrasathSece">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+    <img src="https://skillicons.dev/icons?i=github" width="42"/>
   </a>
 
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
   </a>
 
   <a href="https://mohanprasath.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="45"/>
+    <img src="https://skillicons.dev/icons?i=vercel" width="42"/>
   </a>
 </p>
 
-<p align="center">📍 Coimbatore, Tamil Nadu, India</p>
+<p align="center">
+  Coimbatore, Tamil Nadu
+</p>
 
 ---
 
 <h3 align="center">
-  I don't follow the visual noise.<br>
-  I design what stands above it. ⚡
+  I DON'T DESIGN TO FIT IN.<br>
+  I DESIGN TO BE REMEMBERED.
 </h3>
