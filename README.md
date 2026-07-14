@@ -1,308 +1,139 @@
-<!-- ===================================================== -->
-<!--                     HERO BANNER                       -->
-<!-- ===================================================== -->
+<h1 align="center">Hey, I'm Mohan Prasath S 👋</h1>
 
 <p align="center">
-  <img
-    src="./assets/github-banner.png"
-    width="100%"
-    alt="Mohan Prasath — Brand Designer and Web Designer"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2400&pause=700&color=3AA6FF&center=true&vCenter=true&width=700&lines=Brand+Designer;Freelance+Web+Designer;Building+Brands+That+Stand+Out;Designing+Beyond+the+Ordinary." />
 </p>
-
-<br>
-
-<h1 align="center">
-  MOHAN PRASATH S.
-</h1>
 
 <p align="center">
-  <b>
-    BRAND DESIGNER&nbsp;&nbsp; ✦ &nbsp;&nbsp;
-    WEB DESIGNER&nbsp;&nbsp; ✦ &nbsp;&nbsp;
-    CREATIVE DEVELOPER
-  </b>
+  <b>Brand Designer • Web Designer • Creative Developer</b>
 </p>
-
-<br>
-
-<h1 align="center">
-  I Build Brands<br>
-  <i>That Crush the Ordinary.</i>
-</h1>
 
 <p align="center">
-  Bold identities. Premium websites.<br>
-  Digital experiences designed to lead — never follow.
+  I shape bold identities and build digital experiences worth remembering.
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://mohanprasath.in/">
-    <img
-      src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-D4AF37?style=for-the-badge&labelColor=D4AF37&color=D4AF37"
-      alt="Explore My Portfolio"
-    />
+    <b>Explore My Portfolio →</b>
   </a>
 </p>
 
-<br>
-
 ---
 
 <h3 align="center">
-  BRANDING WITH CHARACTER
-  &nbsp;&nbsp; ✦ &nbsp;&nbsp;
-  WEBSITES WITH IMPACT
-  &nbsp;&nbsp; ✦ &nbsp;&nbsp;
-  DESIGN WITHOUT THE NOISE
+  ✦ BRANDING WITH CHARACTER&nbsp;&nbsp;•&nbsp;&nbsp;
+  WEBSITES WITH IMPACT&nbsp;&nbsp;•&nbsp;&nbsp;
+  DESIGN WITHOUT THE NOISE ✦
 </h3>
 
 ---
 
-<br>
-
-<!-- ===================================================== -->
-<!--                    CREATIVE STACK                     -->
-<!-- ===================================================== -->
-
-<h2 align="center">
-  THE CREATIVE STACK
-</h2>
+## 🛠 Creative Stack
 
 <p align="center">
-  The tools behind the ideas, identities, and experiences.
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,html,css,js,react,tailwind,wordpress,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
-
-<br>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=figma,photoshop,html,css,js,react,tailwind,wordpress,nodejs,express,mongodb,mysql,git,github,vscode"
-    alt="Creative and Development Skills"
-  />
+  Brand Design&nbsp;&nbsp;•&nbsp;&nbsp;
+  Visual Identity&nbsp;&nbsp;•&nbsp;&nbsp;
+  UI Design&nbsp;&nbsp;•&nbsp;&nbsp;
+  Creative Direction&nbsp;&nbsp;•&nbsp;&nbsp;
+  AI-Powered Design
 </p>
-
-<br>
-
-<p align="center">
-  <b>
-    BRAND DESIGN
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    VISUAL IDENTITY
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    UI DESIGN
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    CREATIVE DIRECTION
-    &nbsp;&nbsp;•&nbsp;&nbsp;
-    AI-POWERED DESIGN
-  </b>
-</p>
-
-<br>
 
 ---
-
-<!-- ===================================================== -->
-<!--                      EXPERIENCE                       -->
-<!-- ===================================================== -->
-
-<br>
-
-<h1 align="center">
-  40+ WEBSITES
-</h1>
 
 <h3 align="center">
-  MULTIPLE INDUSTRIES&nbsp;&nbsp; ✦ &nbsp;&nbsp;ONE CREATIVE VISION
+  40+ WEBSITES&nbsp;&nbsp;✦&nbsp;&nbsp;
+  MULTIPLE INDUSTRIES&nbsp;&nbsp;✦&nbsp;&nbsp;
+  ONE CREATIVE VISION
 </h3>
 
-<p align="center">
-  From blank screens to bold digital identities.<br>
-  Every experience is built to stand out — never blend in.
-</p>
+---
 
-<br>
+## 🚀 Selected Work
+
+### 🦷 Happy Dental Agency
+
+<p align="center">
+  A modern digital experience built for a UK-based dental recruitment agency.
+  <br><br>
+  <a href="https://happydentalagency.co.uk/">
+    <b>Explore Website →</b>
+  </a>
+</p>
 
 ---
 
-<br>
+### ✦ XIVI
 
-<h2 align="center">
-  IDEAS&nbsp;&nbsp; → &nbsp;&nbsp;IDENTITIES&nbsp;&nbsp; → &nbsp;&nbsp;EXPERIENCES
-</h2>
-
-<br>
+<p align="center">
+  A bold and modern digital experience where clean design meets strong identity.
+  <br><br>
+  <a href="https://xivi.in/">
+    <b>Explore Website →</b>
+  </a>
+</p>
 
 ---
-
-<!-- ===================================================== -->
-<!--                    GITHUB OVERVIEW                    -->
-<!-- ===================================================== -->
-
-<br>
-
-<h2 align="center">
-  GITHUB OVERVIEW
-</h2>
-
-<p align="center">
-  A glimpse into the builds behind the design.
-</p>
-
-<br>
-
-<p align="center">
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=transparent&hide_border=false&title_color=D4AF37&icon_color=D4AF37&text_color=777777&border_color=D4AF37"
-    alt="Mohan Prasath GitHub Statistics"
-  />
-
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&layout=compact&theme=transparent&hide_border=false&title_color=D4AF37&text_color=777777&border_color=D4AF37"
-    alt="Most Used Languages"
-  />
-
-</p>
-
-<br>
 
 <h3 align="center">
-  KEEPING THE MOMENTUM
+  IDEAS → IDENTITIES → EXPERIENCES
 </h3>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=MohanPrasathSece&theme=transparent&hide_border=false&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=777777&currStreakNum=111111&sideNums=111111&dates=777777&border=D4AF37"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
-<br>
-
-<h3 align="center">
-  THE BUILD TRAIL
-</h3>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MohanPrasathSece&bg_color=ffffff&color=D4AF37&line=D4AF37&point=111111&area=true&area_color=E8C85A&hide_border=true"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
-<br>
 
 ---
 
-<!-- ===================================================== -->
-<!--                  CONTRIBUTION SNAKE                   -->
-<!-- ===================================================== -->
-
-<br>
-
-<h2 align="center">
-  THE CONTRIBUTION TRAIL
-</h2>
+## 📈 GitHub Overview
 
 <p align="center">
-  One contribution at a time.
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohanPrasathSece&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanPrasathSece&layout=compact&theme=transparent&hide_border=true" />
 </p>
-
-<br>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/MohanPrasathSece/MohanPrasathSece/output/snake.svg"
-    alt="Mohan Prasath Contribution Snake"
-  />
+  <img src="https://streak-stats.demolab.com?user=MohanPrasathSece&theme=transparent&hide_border=true" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohanPrasathSece&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohanPrasathSece/MohanPrasathSece/output/snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
-<!-- ===================================================== -->
-<!--                       CONTACT                         -->
-<!-- ===================================================== -->
-
-<br>
-
-<h1 align="center">
-  LET'S BUILD SOMETHING<br>
-  <i>THEY CAN'T IGNORE.</i>
-</h1>
+## 📬 Let's Create Something Different
 
 <p align="center">
-  Have an idea, a brand, or a blank screen?<br>
-  Let's turn it into something worth remembering.
-</p>
-
-<br>
-
-<p align="center">
-
   <a href="mailto:mohanprasath563@gmail.com">
-    <img
-      src="https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=111111"
-      alt="Email"
-    />
+    <img src="https://skillicons.dev/icons?i=gmail" width="42"/>
   </a>
 
   <a href="https://github.com/MohanPrasathSece">
-    <img
-      src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"
-      alt="GitHub"
-    />
+    <img src="https://skillicons.dev/icons?i=github" width="42"/>
   </a>
 
   <a href="#">
-    <img
-      src="https://img.shields.io/badge/LINKEDIN-D4AF37?style=for-the-badge&logo=linkedin&logoColor=111111"
-      alt="LinkedIn"
-    />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
   </a>
 
   <a href="https://mohanprasath.in/">
-    <img
-      src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
-      alt="Portfolio"
-    />
+    <img src="https://skillicons.dev/icons?i=vercel" width="42"/>
   </a>
-
 </p>
-
-<br>
 
 <p align="center">
-  <b>
-    COIMBATORE&nbsp;&nbsp; ✦ &nbsp;&nbsp;
-    TAMIL NADU&nbsp;&nbsp; ✦ &nbsp;&nbsp;
-    INDIA
-  </b>
+  Coimbatore, Tamil Nadu
 </p>
-
-<br>
 
 ---
 
-<br>
-
-<h2 align="center">
+<h3 align="center">
   I DON'T DESIGN TO FIT IN.<br>
-  <i>I DESIGN TO BE REMEMBERED.</i>
-</h2>
-
-<br>
-
-<p align="center">
-  © MOHAN PRASATH S. — DESIGNING BEYOND THE ORDINARY.
-</p>
+  I DESIGN TO BE REMEMBERED.
+</h3>
