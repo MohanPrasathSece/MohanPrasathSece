@@ -31,7 +31,7 @@
 ## 🛠 Creative Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,html,css,js,react,tailwind,wordpress,nodejs,express,mongodb,mysql,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,html,css,js,react,tailwind,wordpress,nodejs,express,mongodb,mysql,git,github,vscode" />
 </p>
 
 <p align="center">
